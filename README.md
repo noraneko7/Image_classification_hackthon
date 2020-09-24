@@ -1,0 +1,2 @@
+# Image_classification_hackthon
+AI-SCHOLAR主催プロジェクト型ハッカソン
