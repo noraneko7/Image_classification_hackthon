@@ -22,11 +22,11 @@ FlickrAPIを用いて学習用データの作成
 画像ファイルの分類
 
 ***
-## create_xlsx.py
+## CreateExcel/create_xlsx.py
 エクセルファイルの作成
 
 ***
-## data_list_v3.json
+## CreateExcel/data_list_v3.json
 エクセル生成用データ
 
 ***
@@ -34,9 +34,17 @@ FlickrAPIを用いて学習用データの作成
 ヒートマップ 
 
 ***
-## opencv.py
+## OpenCv/opencv.py
 輪郭摘出
 
 ***
-## opencvFace.py
+## OpenCv/opencvFace.py
 顔・目の摘出
+
+***
+## accuracy
+精度
+
+***
+## predict
+予測
